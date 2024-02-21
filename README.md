@@ -1,4 +1,4 @@
-# toonflix
+# Wallet Practice
 
 A new Flutter project.
 
